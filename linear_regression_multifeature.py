@@ -1,4 +1,3 @@
-# ECE 491: Senior Design - Group 11
 # Bitcoin Price Predictor - Linear Regression
 # 11/17/17
 
